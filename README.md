@@ -1,5 +1,7 @@
-# YetAnotherMacspoofer
-Very, very simple macspoofing app for android (require root & lsposed). Doesn't even have any gui or anything, you have to dive into the code to change the mac🤣🤣
+# YetAnotherMacspoofer (A12+)
+(for android 11, refer to [jembyte's fork](https://github.com/jembyte/YetAnotherMacspoofer))
+
+A very, very simple macspoofing app for android (require root & lsposed). Doesn't even have any gui or anything, you have to dive into the code to change the mac🤣🤣
 
 ### Why do I make this
 Acts as a proof-of-concept (POC), could be a good starting point if someone wanted to make a full-fledged open source one.
